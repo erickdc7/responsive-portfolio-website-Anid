@@ -38,9 +38,9 @@
   --h1-font-size: 1.5rem;
   --h2-font-size: 1.25rem;
   --h3-font-size: 1rem;
-  --normal-font-size: .938rem;
-  --small-font-size: .813rem;
-  --smaller-font-size: .75rem;
+  --normal-font-size: 0.938rem;
+  --small-font-size: 0.813rem;
+  --smaller-font-size: 0.75rem;
 
   /*========== Font weight ==========*/
   --font-regular: 400;
@@ -61,8 +61,8 @@
     --h2-font-size: 1.5rem;
     --h3-font-size: 1.25rem;
     --normal-font-size: 1rem;
-    --small-font-size: .875rem;
-    --smaller-font-size: .813rem;
+    --small-font-size: 0.875rem;
+    --smaller-font-size: 0.813rem;
   }
 }
 
@@ -93,7 +93,10 @@ button {
   border: none;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   color: var(--title-color);
   font-family: var(--second-font);
   font-weight: var(--font-semi-bold);
@@ -145,81 +148,55 @@ img {
 /*=============== BLOB ===============*/
 /* Blob animate */
 
-
 /* Blob */
-
 
 /*=============== CUSTOM CURSOR ===============*/
 
-
 /* Hide the custom cursor */
-
 
 /*=============== HEADER & NAV ===============*/
 
-
 /* Active link */
-
 
 /*=============== HOME ===============*/
 
-
 /*=============== BUTTON ===============*/
-
 
 /*=============== ABOUT ===============*/
 
-
 /*=============== PROJECTS ===============*/
-
 
 /* Swiper class */
 
-
 /*=============== WORK ===============*/
-
 
 /* Show & hide sections */
 
-
 /* Active tab */
-
 
 /*=============== SERVICES ===============*/
 
-
 /* Hide services info */
-
 
 /* Rotate icon */
 
-
 /*=============== TESTIMONIALS ===============*/
-
 
 /* Infinite scroll animation */
 
-
 /*=============== CONTACT ===============*/
-
 
 /*=============== FOOTER ===============*/
 
-
 /*=============== SCROLL BAR ===============*/
-
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
-
 /* For medium devices */
-
 
 /* For large devices */
 
-
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
-
 
 /* Custom cursor is hidden for mobile devices */

@@ -16,7 +16,7 @@
 /*=============== COPY EMAIL IN CONTACT ===============*/
 
 
-/*=============== CURRENT YEAR OF THE FOOTER ===============*/ 
+/*=============== CURRENT YEAR OF THE FOOTER ===============*/
 
 
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/

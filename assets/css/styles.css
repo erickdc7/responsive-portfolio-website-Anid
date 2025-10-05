@@ -284,6 +284,7 @@ img {
 
   .nav {
     height: calc(var(--header-height) + 2rem);
+    align-items: center;
   }
 
   .nav__logo {

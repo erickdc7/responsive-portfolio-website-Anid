@@ -162,6 +162,15 @@ img {
   animation: animateBlob 5s linear infinite;
 }
 
+@keyframes animateBlob {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
 /* Blob */
 
 /*=============== CUSTOM CURSOR ===============*/

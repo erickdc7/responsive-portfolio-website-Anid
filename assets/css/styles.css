@@ -193,6 +193,12 @@ img {
   row-gap: 0.5rem;
 }
 
+.nav__link {
+  color: var(--title-color);
+  font: var(--font-semi-bold) var(--small-font-size) var(--second-font);
+  transition: color 0.4s, text-shadow 0.4s;
+}
+
 /* Active link */
 
 /*=============== HOME ===============*/

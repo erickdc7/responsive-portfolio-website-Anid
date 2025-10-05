@@ -191,6 +191,11 @@ img {
   z-index: var(--z-fixed);
 }
 
+.header .blob-animate {
+  top: -3rem;
+  left: -3rem;
+}
+
 .nav {
   display: flex;
   justify-content: space-between;

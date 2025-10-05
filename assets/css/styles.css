@@ -186,6 +186,13 @@ img {
   color: var(--first-color);
 }
 
+.nav__list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  row-gap: 0.5rem;
+}
+
 /* Active link */
 
 /*=============== HOME ===============*/

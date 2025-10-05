@@ -199,6 +199,11 @@ img {
   transition: color 0.4s, text-shadow 0.4s;
 }
 
+.nav__link:hover {
+  color: var(--first-color);
+  text-shadow: 0 8px 16px var(--first-color);
+}
+
 /* Active link */
 
 /*=============== HOME ===============*/

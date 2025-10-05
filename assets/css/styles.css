@@ -155,6 +155,18 @@ img {
 /* Hide the custom cursor */
 
 /*=============== HEADER & NAV ===============*/
+.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    var(--body-color) 60%,
+    hsla(240, 100%, 2%, 0) 100%
+  );
+  z-index: var(--z-fixed);
+}
 
 /* Active link */
 

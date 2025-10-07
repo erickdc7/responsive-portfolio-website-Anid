@@ -292,6 +292,12 @@ img {
   );
 }
 
+.home__info {
+  z-index: 2;
+  bottom: -1rem;
+  justify-self: center;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

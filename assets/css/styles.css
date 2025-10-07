@@ -330,6 +330,15 @@ img {
   transform: translateY(-1rem);
 }
 
+.home__social {
+  z-index: 2;
+  left: 0;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  row-gap: 0.75rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

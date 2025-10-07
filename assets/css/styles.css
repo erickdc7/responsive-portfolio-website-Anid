@@ -311,6 +311,11 @@ img {
   overflow: hidden;
 }
 
+.home__profession-1 {
+  position: relative;
+  color: var(--first-color);
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

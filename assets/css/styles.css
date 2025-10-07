@@ -326,6 +326,10 @@ img {
   left: 0;
 }
 
+.home__profession-2 {
+  transform: translateY(-1rem);
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

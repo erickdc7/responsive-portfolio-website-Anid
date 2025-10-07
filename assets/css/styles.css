@@ -339,6 +339,12 @@ img {
   row-gap: 0.75rem;
 }
 
+.home__social-link {
+  color: var(--title-color);
+  font-size: 1.25rem;
+  transition: transform 0.4s, color 0.4s;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

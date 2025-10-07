@@ -235,6 +235,9 @@ img {
 /* Active link */
 
 /*=============== HOME ===============*/
+.home {
+  position: relative;
+}
 
 /*=============== BUTTON ===============*/
 

@@ -304,6 +304,13 @@ img {
   color: var(--first-color);
 }
 
+.home__profession-1,
+.home__profession-2 {
+  font-size: var(--bigger-font-size);
+  text-align: center;
+  overflow: hidden;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

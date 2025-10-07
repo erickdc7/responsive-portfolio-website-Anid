@@ -273,6 +273,13 @@ img {
   justify-self: center;
 }
 
+.home__shadow,
+.home__info,
+.home__social,
+.home__cv {
+  position: absolute;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

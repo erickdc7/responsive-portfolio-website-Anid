@@ -245,6 +245,12 @@ img {
   row-gap: 3rem;
 }
 
+.home__greeting {
+  font-size: var(--h2-font-size);
+  font-weight: var(--font-regular);
+  color: var(--first-color);
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

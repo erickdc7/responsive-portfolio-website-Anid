@@ -255,6 +255,12 @@ img {
   font-size: var(--biggest-font-size);
 }
 
+.home__image {
+  position: relative;
+  display: grid;
+  overflow-x: clip;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

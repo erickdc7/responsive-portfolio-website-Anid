@@ -261,6 +261,13 @@ img {
   overflow-x: clip;
 }
 
+.home__image .blob-animate {
+  width: 250px;
+  height: 250px;
+  bottom: 0;
+  justify-self: center;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

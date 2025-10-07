@@ -251,6 +251,10 @@ img {
   color: var(--first-color);
 }
 
+.home__name {
+  font-size: var(--biggest-font-size);
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

@@ -258,7 +258,7 @@ img {
 .home__image {
   position: relative;
   display: grid;
-  overflow-x: clip;
+  overflow-y: clip;
 }
 
 .home__image .blob-animate {

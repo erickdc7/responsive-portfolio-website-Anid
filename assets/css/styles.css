@@ -239,6 +239,12 @@ img {
   position: relative;
 }
 
+.home__container {
+  position: relative;
+  padding-top: 4rem;
+  row-gap: 3rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

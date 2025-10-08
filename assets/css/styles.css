@@ -350,6 +350,19 @@ img {
   transform: translateX(0.25rem);
 }
 
+.home__cv {
+  z-index: 2;
+  right: -2.5rem;
+  bottom: 2.5rem;
+  rotate: -90deg;
+  color: var(--text-color-light);
+  font: var(--font-medium) var(--small-font-size) var(--second-font);
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+  transition: color 0.4s;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

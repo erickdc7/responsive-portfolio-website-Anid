@@ -1,4 +1,6 @@
 /*=============== HOME SPLIT TEXT ===============*/
+import { animate, splitText, stagger } from 'animejs';
+
 
 
 /*=============== SWIPER PROJECTS ===============*/

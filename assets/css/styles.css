@@ -407,6 +407,12 @@ img {
   .container {
     margin-inline: 1rem;
   }
+
+  .blob,
+  .home__image .blob-animate {
+    width: 220px;
+    height: 220px;
+  }
 }
 
 /* For medium devices */

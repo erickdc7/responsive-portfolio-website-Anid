@@ -453,6 +453,10 @@ img {
     width: initial;
     padding-top: 3rem;
   }
+
+  .home__perfil {
+    width: 600px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

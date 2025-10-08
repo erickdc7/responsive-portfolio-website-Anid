@@ -457,6 +457,13 @@ img {
   .home__perfil {
     width: 600px;
   }
+
+  .home__image .blob-animate {
+    width: 450px;
+    height: 450px;
+    bottom: 2rem;
+    filter: blur(50px);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

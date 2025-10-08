@@ -494,6 +494,11 @@ img {
   .home__split {
     font-size: var(--h2-font-size);
   }
+
+  .home__profession-1 {
+    font-size: var(--biggest-font-size);
+    text-align: initial;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

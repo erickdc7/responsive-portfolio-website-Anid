@@ -464,6 +464,19 @@ img {
     bottom: 2rem;
     filter: blur(50px);
   }
+
+  .home__shadow {
+    width: 700px;
+    height: 700px;
+    left: 0;
+    right: 0;
+    margin-inline: auto;
+    background: linear-gradient(
+      180deg,
+      hsla(240, 100%, 2%, 0) 60%,
+      hsl(240, 100%, 2%) 95%
+    );
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

@@ -1,7 +1,9 @@
 /*=============== HOME SPLIT TEXT ===============*/
 import { animate, splitText, stagger } from 'animejs';
 
-
+const { chars } = splitText('p', {
+    chars: { wrap: 'clip' },
+});
 
 /*=============== SWIPER PROJECTS ===============*/
 

@@ -477,6 +477,13 @@ img {
       hsl(240, 100%, 2%) 95%
     );
   }
+
+  .home__data {
+    position: absolute;
+    top: 12rem;
+    left: 3rem;
+    z-index: 2;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

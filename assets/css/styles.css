@@ -367,6 +367,10 @@ img {
   font-size: 1rem;
 }
 
+.home__cv:hover {
+  color: var(--first-color);
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

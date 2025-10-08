@@ -513,6 +513,12 @@ img {
   .home__social-link {
     font-size: 1.5rem;
   }
+
+  .home__cv {
+    font-size: var(--normal-font-size);
+    rotate: 0deg;
+    right: 0;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

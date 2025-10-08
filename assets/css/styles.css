@@ -363,6 +363,10 @@ img {
   transition: color 0.4s;
 }
 
+.home__cv i {
+  font-size: 1rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

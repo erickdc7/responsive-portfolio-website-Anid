@@ -345,6 +345,11 @@ img {
   transition: transform 0.4s, color 0.4s;
 }
 
+.home__social-link:hover {
+  color: var(--first-color);
+  transform: translateX(0.25rem);
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

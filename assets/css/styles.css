@@ -499,6 +499,11 @@ img {
     font-size: var(--biggest-font-size);
     text-align: initial;
   }
+
+  .home__profession-2 {
+    font-size: var(--biggest-font-size);
+    transform: translateY(-1.5rem);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

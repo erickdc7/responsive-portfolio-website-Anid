@@ -383,6 +383,11 @@ img {
   overflow-y: clip;
 }
 
+.about__data .section__title {
+  margin-bottom: 1.5rem;
+  text-align: initial;
+}
+
 /*=============== PROJECTS ===============*/
 
 /* Swiper class */

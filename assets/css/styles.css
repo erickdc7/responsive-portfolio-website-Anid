@@ -378,6 +378,11 @@ img {
   position: relative;
 }
 
+.about__container {
+  row-gap: 3rem;
+  overflow-y: clip;
+}
+
 /*=============== PROJECTS ===============*/
 
 /* Swiper class */

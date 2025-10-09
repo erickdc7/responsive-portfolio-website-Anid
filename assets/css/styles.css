@@ -393,6 +393,11 @@ img {
   margin-bottom: 2rem;
 }
 
+.about__description b {
+  color: var(--first-color);
+  font-weight: var(--font-semi-bold);
+}
+
 /*=============== PROJECTS ===============*/
 
 /* Swiper class */

@@ -428,6 +428,11 @@ img {
   justify-self: center;
 }
 
+.about__image .blob-animate:nth-child(1) {
+  top: 1.5rem;
+  left: 1rem;
+}
+
 /*=============== PROJECTS ===============*/
 
 /* Swiper class */

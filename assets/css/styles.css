@@ -640,6 +640,11 @@ img {
     height: 200px;
     filter: blur(50px);
   }
+
+  .about__image .blob-animate:nth-child(1) {
+    left: 4rem;
+    top: 4rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

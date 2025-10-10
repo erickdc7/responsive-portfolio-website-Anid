@@ -423,6 +423,11 @@ img {
   font-weight: var(--font-semi-bold);
 }
 
+.about__image {
+  position: relative;
+  justify-self: center;
+}
+
 /*=============== PROJECTS ===============*/
 
 /* Swiper class */

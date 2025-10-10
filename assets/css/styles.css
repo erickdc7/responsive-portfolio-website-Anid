@@ -393,6 +393,11 @@ img {
   font-size: 1rem;
 }
 
+.button:hover {
+  box-shadow: 0 8px 48px hsla(var(--hue), 60%, 64%, 0.7),
+    inset 8px -8px 30px var(--first-color-alt-2);
+}
+
 /*=============== ABOUT ===============*/
 .about {
   position: relative;

@@ -438,6 +438,10 @@ img {
   bottom: 0.5rem;
 }
 
+.about__perfil {
+  width: 220px;
+}
+
 /*=============== PROJECTS ===============*/
 
 /* Swiper class */

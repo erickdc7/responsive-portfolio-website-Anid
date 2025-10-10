@@ -506,6 +506,11 @@ img {
     grid-template-columns: 460px;
     justify-content: center;
   }
+
+  .about__data,
+  .about__data .section__title {
+    text-align: center;
+  }
 }
 
 @media screen and (min-width: 768px) {

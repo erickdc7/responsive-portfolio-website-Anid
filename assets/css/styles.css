@@ -609,6 +609,13 @@ img {
     rotate: 0deg;
     right: 0;
   }
+
+  .about__container {
+    grid-template-columns: repeat(2, 500px);
+    align-items: center;
+    column-gap: 5.5rem;
+    padding-top: 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

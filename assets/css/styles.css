@@ -433,6 +433,11 @@ img {
   left: 1rem;
 }
 
+.about__image .blob-animate:nth-child(2) {
+  right: -0.5rem;
+  bottom: 0.5rem;
+}
+
 /*=============== PROJECTS ===============*/
 
 /* Swiper class */

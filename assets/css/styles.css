@@ -634,6 +634,12 @@ img {
   .about__image {
     order: -1;
   }
+
+  .about__image .blob-animate {
+    width: 200px;
+    height: 200px;
+    filter: blur(50px);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

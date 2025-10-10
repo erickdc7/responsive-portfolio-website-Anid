@@ -626,6 +626,10 @@ img {
   .about__description {
     margin-bottom: 3rem;
   }
+
+  .about__perfil {
+    width: 500px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

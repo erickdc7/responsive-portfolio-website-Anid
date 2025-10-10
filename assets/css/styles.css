@@ -630,6 +630,10 @@ img {
   .about__perfil {
     width: 500px;
   }
+
+  .about__image {
+    order: -1;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

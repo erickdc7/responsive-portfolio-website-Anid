@@ -650,6 +650,11 @@ img {
     right: -1rem;
     bottom: 3rem;
   }
+
+  .about__shadow {
+    height: 600px;
+    bottom: 0;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

@@ -622,6 +622,10 @@ img {
     text-align: initial;
     z-index: 2;
   }
+
+  .about__description {
+    margin-bottom: 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

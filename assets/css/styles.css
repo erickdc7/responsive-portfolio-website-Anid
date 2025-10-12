@@ -551,6 +551,10 @@ img {
   transition: box-shadow 0.4s, opacity 0.4s;
 }
 
+.projects__button:hover {
+  box-shadow: 0 0 24px var(--first-color);
+}
+
 /* Swiper class */
 
 /*=============== WORK ===============*/

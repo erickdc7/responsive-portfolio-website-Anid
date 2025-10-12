@@ -529,6 +529,10 @@ img {
   font-size: var(--small-font-size);
 }
 
+.projects__img {
+  border-radius: 1.5rem;
+}
+
 /* Swiper class */
 
 /*=============== WORK ===============*/

@@ -461,6 +461,14 @@ img {
   margin-left: 1.5rem;
 }
 
+.projects__card {
+  position: relative;
+  background-color: var(--container-color);
+  padding: 1.5rem;
+  border-radius: 3rem;
+  overflow: hidden;
+}
+
 /* Swiper class */
 
 /*=============== WORK ===============*/

@@ -483,6 +483,9 @@ img {
 }
 
 .projects__card .blob {
+  z-index: 0;
+  right: -7.75rem;
+  bottom: 0;
 }
 
 /* Swiper class */

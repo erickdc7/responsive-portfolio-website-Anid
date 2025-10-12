@@ -519,6 +519,10 @@ img {
   margin-bottom: 1rem;
 }
 
+.projects__description {
+  font-size: var(--small-font-size);
+}
+
 /* Swiper class */
 
 /*=============== WORK ===============*/

@@ -519,6 +519,12 @@ img {
   margin-bottom: 1rem;
 }
 
+.projects__subtitle {
+  font-family: var(--second-font);
+  font-size: var(--small-font-size);
+  margin-bottom: 0.5rem;
+}
+
 .projects__description {
   font-size: var(--small-font-size);
 }

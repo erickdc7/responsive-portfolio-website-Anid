@@ -510,6 +510,10 @@ img {
   font-size: var(--h3-font-size);
 }
 
+.projects__data {
+  margin-block: 2rem;
+}
+
 /* Swiper class */
 
 /*=============== WORK ===============*/

@@ -488,6 +488,13 @@ img {
   bottom: 0;
 }
 
+.projects__number,
+.projects__data,
+.projects__image {
+  position: relative;
+  z-index: 1;
+}
+
 /* Swiper class */
 
 /*=============== WORK ===============*/

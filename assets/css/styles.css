@@ -501,6 +501,10 @@ img {
   justify-content: space-between;
 }
 
+.projects__number h1 {
+  font-size: var(--biggest-font-size);
+}
+
 /* Swiper class */
 
 /*=============== WORK ===============*/

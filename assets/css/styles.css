@@ -505,6 +505,11 @@ img {
   font-size: var(--biggest-font-size);
 }
 
+.projects__number h3 {
+  font-weight: var(--font-regular);
+  font-size: var(--h3-font-size);
+}
+
 /* Swiper class */
 
 /*=============== WORK ===============*/

@@ -533,6 +533,24 @@ img {
   border-radius: 1.5rem;
 }
 
+.projects__button {
+  display: grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  background-color: var(--body-color);
+  border: 3px solid var(--first-color);
+  border-radius: 50%;
+  color: var(--title-color);
+  font-size: 2rem;
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  opacity: 0;
+  pointer-events: none;
+  transition: box-shadow 0.4s, opacity 0.4s;
+}
+
 /* Swiper class */
 
 /*=============== WORK ===============*/

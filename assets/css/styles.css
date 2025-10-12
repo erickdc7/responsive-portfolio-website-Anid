@@ -172,6 +172,19 @@ img {
 }
 
 /* Blob */
+.blob {
+  width: 250px;
+  height: 250px;
+  background: linear-gradient(
+    180deg,
+    var(--first-color) 0%,
+    var(--first-color-alt) 100%
+  );
+  border-radius: 50%;
+  filter: blur(50px);
+  position: absolute;
+  z-index: -1;
+}
 
 /*=============== CUSTOM CURSOR ===============*/
 
@@ -469,8 +482,7 @@ img {
   overflow: hidden;
 }
 
-.projects__card .blob{
-  
+.projects__card .blob {
 }
 
 /* Swiper class */

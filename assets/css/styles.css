@@ -631,6 +631,11 @@ img {
   .about__data .section__title {
     text-align: center;
   }
+
+  :is(.projects) .section__title {
+    text-align: center;
+    margin-left: 0;
+  }
 }
 
 @media screen and (min-width: 768px) {

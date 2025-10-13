@@ -566,6 +566,10 @@ img {
   padding-bottom: 2rem;
 }
 
+.projects .swiper-pagination-bullets {
+  bottom: 0;
+}
+
 /*=============== WORK ===============*/
 
 /* Show & hide sections */

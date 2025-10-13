@@ -802,6 +802,11 @@ img {
     padding: 2.5rem;
     border-radius: 4rem;
   }
+
+  .projects__subtitle,
+  .projects__description {
+    font-size: var(--normal-font-size);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

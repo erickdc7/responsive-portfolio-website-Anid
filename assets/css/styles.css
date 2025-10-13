@@ -788,6 +788,10 @@ img {
   .projects {
     padding-block: 9rem 4rem;
   }
+
+  .projects__swiper {
+    padding-bottom: 4rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

@@ -561,6 +561,10 @@ img {
 }
 
 /* Swiper class */
+.projects__swiper{
+  margin-inline: initial;
+  padding-bottom: 2rem;
+}
 
 /*=============== WORK ===============*/
 

@@ -570,6 +570,11 @@ img {
   bottom: 0;
 }
 
+.projects .swiper-pagination-bullet {
+  background-color: var(--first-color);
+  transition: opacity 0.4s;
+}
+
 /*=============== WORK ===============*/
 
 /* Show & hide sections */

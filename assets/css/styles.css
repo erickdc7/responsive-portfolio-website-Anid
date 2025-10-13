@@ -796,6 +796,12 @@ img {
   .projects__container {
     max-width: 1380px;
   }
+
+  .projects__card {
+    width: 440px;
+    padding: 2.5rem;
+    border-radius: 4rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

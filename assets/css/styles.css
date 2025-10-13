@@ -807,6 +807,10 @@ img {
   .projects__description {
     font-size: var(--normal-font-size);
   }
+
+  .projects__img {
+    border-radius: 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

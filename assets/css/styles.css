@@ -609,6 +609,10 @@ img {
     width: 220px;
     height: 220px;
   }
+
+  .projects__card {
+    padding-inline: 1rem;
+  }
 }
 
 /* For medium devices */

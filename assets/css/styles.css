@@ -811,6 +811,11 @@ img {
   .projects__img {
     border-radius: 2rem;
   }
+
+  .projects__button {
+    top: 1.5rem;
+    right: 1.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

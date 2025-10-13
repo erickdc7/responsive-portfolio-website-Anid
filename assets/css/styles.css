@@ -792,6 +792,10 @@ img {
   .projects__swiper {
     padding-bottom: 4rem;
   }
+
+  .projects__container {
+    max-width: 1380px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

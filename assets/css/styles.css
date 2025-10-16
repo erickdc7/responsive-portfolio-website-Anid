@@ -576,6 +576,13 @@ img {
 }
 
 /*=============== WORK ===============*/
+.work__tabs {
+  background-color: var(--container-color);
+  padding: 1.25rem 2rem;
+  border-radius: 4rem;
+  display: flex;
+  justify-content: space-between;
+}
 
 /* Show & hide sections */
 

@@ -629,6 +629,14 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.work__subtitle {
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-regular);
+  color: var(--first-color);
+}
+
+.
+
 /* Show & hide sections */
 
 /* Active tab */

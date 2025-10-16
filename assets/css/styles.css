@@ -751,6 +751,10 @@ img {
   .home__container {
     width: 600px;
   }
+
+  .work__container {
+    grid-template-columns: 600px;
+  }
 }
 
 /* For large devices */

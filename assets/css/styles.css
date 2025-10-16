@@ -667,6 +667,10 @@ img {
   display: none;
 }
 
+.work-active[data-content] {
+  display: grid;
+}
+
 /* Active tab */
 
 /*=============== SERVICES ===============*/

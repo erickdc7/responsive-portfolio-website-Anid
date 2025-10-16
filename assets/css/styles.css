@@ -663,6 +663,9 @@ img {
 }
 
 /* Show & hide sections */
+.work__area [data-content] {
+  display: none;
+}
 
 /* Active tab */
 

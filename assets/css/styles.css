@@ -624,6 +624,11 @@ img {
   justify-content: space-between;
 }
 
+.work__title {
+  font-size: var(--h2-font-size);
+  margin-bottom: 0.5rem;
+}
+
 /* Show & hide sections */
 
 /* Active tab */

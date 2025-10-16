@@ -651,6 +651,17 @@ img {
   left: -0.25rem;
 }
 
+.work__line::after {
+  content: "";
+  width: 16px;
+  height: 16px;
+  background-color: var(--first-color-alt-2);
+  border-radius: 50%;
+  position: absolute;
+  bottom: -1px;
+  left: -6px;
+}
+
 /* Show & hide sections */
 
 /* Active tab */

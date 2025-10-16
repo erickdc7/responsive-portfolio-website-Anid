@@ -600,6 +600,10 @@ img {
   font-size: 1rem;
 }
 
+.work__button:hover {
+  color: var(--first-color);
+}
+
 /* Show & hide sections */
 
 /* Active tab */

@@ -672,6 +672,9 @@ img {
 }
 
 /* Active tab */
+.work__button.work-active {
+  color: var(--first-color);
+}
 
 /*=============== SERVICES ===============*/
 

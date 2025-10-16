@@ -604,6 +604,11 @@ img {
   color: var(--first-color);
 }
 
+.work__area {
+  position: relative;
+  padding-left: 1rem;
+}
+
 /* Show & hide sections */
 
 /* Active tab */

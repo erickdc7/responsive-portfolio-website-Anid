@@ -584,6 +584,18 @@ img {
   justify-content: space-between;
 }
 
+.work__button {
+  background: none;
+  color: var(--text-color);
+  display: flex;
+  align-items: center;
+  column-gap: 0.25rem;
+  font-size: var(--small-font-size);
+  font-family: var(--second-font);
+  cursor: pointer;
+  transition: color 0.4s;
+}
+
 /* Show & hide sections */
 
 /* Active tab */

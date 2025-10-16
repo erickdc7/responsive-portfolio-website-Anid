@@ -635,7 +635,9 @@ img {
   color: var(--first-color);
 }
 
-.
+.work__year {
+  font-size: var(--h1-font-size);
+}
 
 /* Show & hide sections */
 

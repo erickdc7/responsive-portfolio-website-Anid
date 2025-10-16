@@ -721,7 +721,8 @@ img {
     margin-inline: auto;
   }
 
-  .about__container {
+  .about__container,
+  .work__container {
     grid-template-columns: 460px;
     justify-content: center;
   }

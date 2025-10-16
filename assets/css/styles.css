@@ -708,6 +708,10 @@ img {
   .projects__card {
     padding-inline: 1rem;
   }
+
+  .work__tabs {
+    padding-inline: 1rem;
+  }
 }
 
 /* For medium devices */

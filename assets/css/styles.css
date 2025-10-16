@@ -614,6 +614,11 @@ img {
   row-gap: 4rem;
 }
 
+.work__card {
+  display: grid;
+  row-gap: 1rem;
+}
+
 /* Show & hide sections */
 
 /* Active tab */

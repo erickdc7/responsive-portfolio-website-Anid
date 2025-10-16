@@ -609,6 +609,11 @@ img {
   padding-left: 1rem;
 }
 
+.work__content {
+  display: grid;
+  row-gap: 4rem;
+}
+
 /* Show & hide sections */
 
 /* Active tab */

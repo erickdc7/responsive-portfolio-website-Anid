@@ -639,6 +639,18 @@ img {
   font-size: var(--h1-font-size);
 }
 
+.work__line {
+  width: 4px;
+  height: 100%;
+  background: linear-gradient(
+    180deg,
+    hsla(var(--hue), 60%, 64%, 0),
+    var(--first-color-alt-2)
+  );
+  position: absolute;
+  left: -0.25rem;
+}
+
 /* Show & hide sections */
 
 /* Active tab */

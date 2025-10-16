@@ -619,6 +619,11 @@ img {
   row-gap: 1rem;
 }
 
+.work__data {
+  display: flex;
+  justify-content: space-between;
+}
+
 /* Show & hide sections */
 
 /* Active tab */

@@ -596,6 +596,10 @@ img {
   transition: color 0.4s;
 }
 
+.work__button i {
+  font-size: 1rem;
+}
+
 /* Show & hide sections */
 
 /* Active tab */

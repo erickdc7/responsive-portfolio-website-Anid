@@ -755,6 +755,10 @@ img {
   .work__container {
     grid-template-columns: 600px;
   }
+
+  .work__area {
+    padding-left: 0;
+  }
 }
 
 /* For large devices */

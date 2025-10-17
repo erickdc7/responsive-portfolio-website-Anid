@@ -959,6 +959,11 @@ img {
   .work__title {
     font-size: var(--bigger-font-size);
   }
+
+  .work__subtitle,
+  .work__description {
+    font-size: var(--h3-font-size);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

@@ -946,6 +946,10 @@ img {
     grid-template-columns: 1050px;
     row-gap: 3rem;
   }
+
+  .work__content {
+    row-gap: 5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

@@ -759,6 +759,12 @@ img {
   .work__area {
     padding-left: 0;
   }
+
+  .work__card {
+    grid-template-columns: repeat(2, 270px);
+    justify-content: center;
+    column-gap: 3rem;
+  }
 }
 
 /* For large devices */

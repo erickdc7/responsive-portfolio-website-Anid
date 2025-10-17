@@ -950,6 +950,11 @@ img {
   .work__content {
     row-gap: 5rem;
   }
+
+  .work__card {
+    grid-template-columns: repeat(2, 450px);
+    column-gap: 9rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

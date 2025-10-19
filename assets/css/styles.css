@@ -693,8 +693,13 @@ img {
 
 .services__card .blob {
   z-index: 0;
-  top: -7.7rem;
-  left: -7.7rem;
+  top: -7.75rem;
+  left: -7.75rem;
+}
+
+.services__card .blob-2 {
+  left: initial;
+  right: -7.75rem;
 }
 
 /* Hide services info */

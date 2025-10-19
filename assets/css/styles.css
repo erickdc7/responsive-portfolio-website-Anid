@@ -702,6 +702,12 @@ img {
   right: -7.75rem;
 }
 
+.services__data,
+.services__info {
+  position: relative;
+  z-index: 1;
+}
+
 /* Hide services info */
 
 /* Rotate icon */

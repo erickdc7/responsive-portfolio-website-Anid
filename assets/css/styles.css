@@ -720,6 +720,13 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.services__skills {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 0.25rem;
+}
+
 /* Hide services info */
 
 /* Rotate icon */

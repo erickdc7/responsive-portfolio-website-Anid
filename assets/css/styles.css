@@ -737,6 +737,23 @@ img {
   font-family: var(--second-font);
 }
 
+.services__button {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  background-color: var(--body-color);
+  border: 2px solid var(--first-color);
+  color: var(--title-color);
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+  position: absolute;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 2;
+  cursor: pointer;
+}
+
 /* Hide services info */
 
 /* Rotate icon */

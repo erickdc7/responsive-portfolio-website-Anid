@@ -754,6 +754,10 @@ img {
   cursor: pointer;
 }
 
+.services__button i {
+  transition: rotate 0.4s;
+}
+
 /* Hide services info */
 
 /* Rotate icon */

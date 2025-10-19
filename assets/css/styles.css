@@ -713,6 +713,10 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.services__subtitle {
+  font-size: var(--small-font-size);
+}
+
 /* Hide services info */
 
 /* Rotate icon */

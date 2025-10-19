@@ -715,6 +715,9 @@ img {
 
 .services__subtitle {
   font-size: var(--small-font-size);
+  font-weight: var(--font-regular);
+  color: var(--text-color);
+  margin-bottom: 0.5rem;
 }
 
 /* Hide services info */

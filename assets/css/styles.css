@@ -727,6 +727,16 @@ img {
   gap: 0.5rem 0.25rem;
 }
 
+.services__skill {
+  background-color: var(--container-color);
+  color: var(--title-color);
+  border: 1px solid var(--title-color);
+  padding: 4px 10px;
+  border-radius: 4rem;
+  font-size: var(--smaller-font-size);
+  font-family: var(--second-font);
+}
+
 /* Hide services info */
 
 /* Rotate icon */

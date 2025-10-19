@@ -708,6 +708,11 @@ img {
   z-index: 1;
 }
 
+.services__title {
+  font-size: var(--h2-font-size);
+  margin-bottom: 0.5rem;
+}
+
 /* Hide services info */
 
 /* Rotate icon */

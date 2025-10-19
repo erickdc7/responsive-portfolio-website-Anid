@@ -691,6 +691,12 @@ img {
   overflow: hidden;
 }
 
+.services__card .blob {
+  z-index: 0;
+  top: -7.7rem;
+  left: -7.7rem;
+}
+
 /* Hide services info */
 
 /* Rotate icon */

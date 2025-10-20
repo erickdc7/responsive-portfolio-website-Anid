@@ -885,6 +885,11 @@ img {
     margin-bottom: 4rem;
   }
 
+  .blob {
+    width: 300px;
+    height: 300px;
+  }
+
   .nav {
     height: calc(var(--header-height) + 2rem);
     align-items: center;

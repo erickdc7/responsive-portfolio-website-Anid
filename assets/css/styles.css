@@ -770,6 +770,9 @@ img {
 }
 
 /* Rotate icon */
+.services-open .services__button i {
+  rotate: -180deg;
+}
 
 /*=============== TESTIMONIALS ===============*/
 

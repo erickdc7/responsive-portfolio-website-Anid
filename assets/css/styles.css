@@ -1091,6 +1091,11 @@ img {
     font-size: var(--h1-font-size);
     margin-bottom: 1rem;
   }
+
+  .services__button {
+    right: 2rem;
+    bottom: 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

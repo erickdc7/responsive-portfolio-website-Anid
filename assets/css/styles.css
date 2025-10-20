@@ -1086,6 +1086,11 @@ img {
     border-radius: 4rem;
     row-gap: 2rem;
   }
+
+  .services__title {
+    font-size: var(--h1-font-size);
+    margin-bottom: 1rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

@@ -765,6 +765,10 @@ img {
   overflow: hidden;
 }
 
+.services__info {
+  transition: height 0.4s, opacity 0.4s;
+}
+
 /* Rotate icon */
 
 /*=============== TESTIMONIALS ===============*/

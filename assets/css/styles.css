@@ -1075,6 +1075,11 @@ img {
   .work__description {
     font-size: var(--h3-font-size);
   }
+
+  .services__container {
+    grid-template-columns: repeat(2, 455px);
+    column-gap: 5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

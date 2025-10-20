@@ -814,7 +814,8 @@ img {
   }
 
   .about__container,
-  .work__container {
+  .work__container,
+  .services__container {
     grid-template-columns: 460px;
     justify-content: center;
   }

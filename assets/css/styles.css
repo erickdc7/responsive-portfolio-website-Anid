@@ -864,6 +864,11 @@ img {
     right: 0;
     margin-inline: auto;
   }
+
+  .services__container {
+    grid-template-columns: repeat(2, 350px);
+    align-items: flex-start;
+  }
 }
 
 /* For large devices */

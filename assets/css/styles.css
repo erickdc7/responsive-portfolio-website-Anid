@@ -759,6 +759,11 @@ img {
 }
 
 /* Hide services info */
+.services-close .services__info {
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+}
 
 /* Rotate icon */
 

@@ -805,6 +805,11 @@ img {
   bottom: -12.5rem;
 }
 
+.testimonials__data {
+  position: relative;
+  z-index: 1;
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT ===============*/

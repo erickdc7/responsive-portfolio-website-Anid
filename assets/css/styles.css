@@ -810,6 +810,12 @@ img {
   z-index: 1;
 }
 
+.testimonials__img {
+  width: 60px;
+  border-radius: 50%;
+  margin: 0 auto 0.5rem;
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT ===============*/

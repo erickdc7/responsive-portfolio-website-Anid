@@ -780,6 +780,12 @@ img {
   margin-left: 1.5rem;
 }
 
+.testimonials__container {
+  position: relative;
+  margin-inline: 0;
+  overflow: hidden;
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT ===============*/

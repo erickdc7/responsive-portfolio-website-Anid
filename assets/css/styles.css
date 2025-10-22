@@ -1197,6 +1197,15 @@ img {
   .testimonials__container {
     row-gap: 3rem;
   }
+
+  .testimonials__container::after,
+  .testimonials__container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 20%;
+    height: 100%;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

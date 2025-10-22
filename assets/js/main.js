@@ -103,6 +103,9 @@ tracks.forEach(track => {
     const cards = [...track.children] /* spread to make a static copy */
 
     /* Duplicate cards only once */
+    for (const card of cards) {
+
+    }
 })
 
 /*=============== COPY EMAIL IN CONTACT ===============*/

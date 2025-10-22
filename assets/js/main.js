@@ -95,7 +95,7 @@ servicesButtons.forEach(button => {
 })
 
 /*=============== TESTIMONIALS OF DUPLICATE CARDS ===============*/
-
+/* Duplicate images to make the animation work */
 
 /*=============== COPY EMAIL IN CONTACT ===============*/
 

@@ -840,6 +840,10 @@ img {
   color: var(--title-color);
 }
 
+.testimonials__number {
+  font-size: var(--h3-font-size);
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT ===============*/

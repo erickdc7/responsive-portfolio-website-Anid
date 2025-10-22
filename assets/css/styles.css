@@ -816,6 +816,12 @@ img {
   margin: 0 auto 0.5rem;
 }
 
+.testimonials__name {
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-regular);
+  margin-bottom: 1.5rem;
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT ===============*/

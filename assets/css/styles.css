@@ -896,6 +896,11 @@ img {
   .work__tabs {
     padding-inline: 1rem;
   }
+
+  .testimonials__card {
+    width: 250px;
+    padding-bottom: 2rem;
+  }
 }
 
 /* For medium devices */

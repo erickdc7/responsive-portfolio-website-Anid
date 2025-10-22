@@ -1225,6 +1225,12 @@ img {
       hsl(0, 0%, 0%) 100%
     );
   }
+
+  .testimonials__card {
+    width: 370px;
+    padding: 3rem 2rem;
+    border-radius: 4rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

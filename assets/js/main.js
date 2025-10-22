@@ -100,7 +100,7 @@ servicesButtons.forEach(button => {
 const tracks = document.querySelectorAll('.testimonials__content')
 
 tracks.forEach(track => {
-    const cards = [...track.children]
+    const cards = [...track.children] /* spread to make a static copy */
 })
 
 /*=============== COPY EMAIL IN CONTACT ===============*/

@@ -844,6 +844,12 @@ img {
   font-size: var(--h3-font-size);
 }
 
+.testimonials__content {
+  display: flex;
+  width: max-content;
+  animation: scroll 18s linear infinite;
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT ===============*/

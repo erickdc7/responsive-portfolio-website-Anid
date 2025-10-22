@@ -1231,6 +1231,10 @@ img {
     padding: 3rem 2rem;
     border-radius: 4rem;
   }
+
+  .testimonials__number {
+    font-size: var(--normal-font-size);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

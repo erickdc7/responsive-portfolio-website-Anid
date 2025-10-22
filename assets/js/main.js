@@ -97,6 +97,10 @@ servicesButtons.forEach(button => {
 /*=============== TESTIMONIALS OF DUPLICATE CARDS ===============*/
 /* Duplicate images to make the animation work */
 
+const tracks = document.querySelectorAll('.testimonials__content')
+
+
+
 /*=============== COPY EMAIL IN CONTACT ===============*/
 
 

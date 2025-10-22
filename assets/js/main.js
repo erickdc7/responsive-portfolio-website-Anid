@@ -99,7 +99,8 @@ servicesButtons.forEach(button => {
 
 const tracks = document.querySelectorAll('.testimonials__content')
 
-
+tracks.forEach(track=>{
+})
 
 /*=============== COPY EMAIL IN CONTACT ===============*/
 

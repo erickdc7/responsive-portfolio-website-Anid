@@ -101,6 +101,8 @@ const tracks = document.querySelectorAll('.testimonials__content')
 
 tracks.forEach(track => {
     const cards = [...track.children] /* spread to make a static copy */
+
+    /* Duplicate cards only once */
 })
 
 /*=============== COPY EMAIL IN CONTACT ===============*/

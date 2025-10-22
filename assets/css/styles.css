@@ -856,6 +856,10 @@ img {
   animation-delay: -1s;
 }
 
+.testimonials__content:hover {
+  animation-play-state: paused;
+}
+
 /* Infinite scroll animation */
 @keyframes scroll {
   0% {

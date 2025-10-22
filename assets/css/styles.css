@@ -850,6 +850,10 @@ img {
   animation: scroll 18s linear infinite;
 }
 
+.testimonials__reverse {
+  flex-direction: row-reverse;
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT ===============*/

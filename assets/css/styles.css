@@ -835,6 +835,11 @@ img {
   column-gap: 0.25rem;
 }
 
+.testimonials__stars i {
+  font-size: 1rem;
+  color: var(--title-color);
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT ===============*/

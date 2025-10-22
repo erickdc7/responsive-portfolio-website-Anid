@@ -852,6 +852,8 @@ img {
 
 .testimonials__reverse {
   flex-direction: row-reverse;
+  animation-direction: reverse;
+  animation-delay: -1s;
 }
 
 /* Infinite scroll animation */

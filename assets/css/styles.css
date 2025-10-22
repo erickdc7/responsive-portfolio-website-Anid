@@ -830,6 +830,11 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.testimonials__stars {
+  display: flex;
+  column-gap: 0.25rem;
+}
+
 /* Infinite scroll animation */
 
 /*=============== CONTACT ===============*/

@@ -104,7 +104,7 @@ tracks.forEach(track => {
 
     /* Duplicate cards only once */
     for (const card of cards) {
-
+        track.appendChild(card.cloneNode(true))
     }
 })
 

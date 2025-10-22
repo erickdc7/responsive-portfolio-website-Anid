@@ -922,7 +922,7 @@ img {
     text-align: center;
   }
 
-  :is(.projects) .section__title {
+  :is(.projects, .testimonials) .section__title {
     text-align: center;
     margin-left: 0;
   }

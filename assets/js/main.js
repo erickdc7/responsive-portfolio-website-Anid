@@ -112,7 +112,9 @@ tracks.forEach(track => {
 const copyBtn = document.getElementById('contact-btn'),
     copyEmail = document.getElementById('contact-email').textContent
 
-
+copyBtn.addEventListener('click',()=>{
+    
+})
 
 /*=============== CURRENT YEAR OF THE FOOTER ===============*/
 

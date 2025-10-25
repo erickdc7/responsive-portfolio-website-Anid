@@ -871,6 +871,10 @@ img {
 }
 
 /*=============== CONTACT ===============*/
+.contact__container {
+  row-gap: 4rem;
+  padding-bottom: 2rem;
+}
 
 /*=============== FOOTER ===============*/
 

@@ -112,8 +112,8 @@ tracks.forEach(track => {
 const copyBtn = document.getElementById('contact-btn'),
     copyEmail = document.getElementById('contact-email').textContent
 
-copyBtn.addEventListener('click',()=>{
-    
+copyBtn.addEventListener('click', () => {
+    /* Use the clipboard API to copy text */
 })
 
 /*=============== CURRENT YEAR OF THE FOOTER ===============*/

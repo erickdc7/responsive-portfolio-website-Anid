@@ -905,6 +905,13 @@ img {
   row-gap: 1rem;
 }
 
+.contact__title {
+  font-size: var(--h3-font-size);
+  color: var(--first-color);
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

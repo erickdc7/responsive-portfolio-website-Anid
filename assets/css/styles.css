@@ -884,6 +884,11 @@ img {
   text-align: center;
 }
 
+.contact__description {
+  font-family: var(--second-font);
+  margin-bottom: 1.5rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

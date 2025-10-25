@@ -880,6 +880,10 @@ img {
   margin-bottom: 1rem;
 }
 
+.contact__data {
+  text-align: center;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

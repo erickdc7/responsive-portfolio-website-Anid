@@ -113,10 +113,12 @@ const copyBtn = document.getElementById('contact-btn'),
     copyEmail = document.getElementById('contact-email').textContent
 
 copyBtn.addEventListener('click', () => {
-    /* Use the clipboard API to copy text */
+    // Use the clipboard API to copy text
     navigator.clipboard.writeText(copyEmail).then(() => {
         copyBtn.innerHTML = 'Email copied <i class="ri-check-line"></i>'
     })
+
+    // Restore the original text
 })
 
 /*=============== CURRENT YEAR OF THE FOOTER ===============*/

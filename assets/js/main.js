@@ -109,7 +109,7 @@ tracks.forEach(track => {
 })
 
 /*=============== COPY EMAIL IN CONTACT ===============*/
-
+const copyBtn = document.getElementById('contact-btn')
 
 /*=============== CURRENT YEAR OF THE FOOTER ===============*/
 

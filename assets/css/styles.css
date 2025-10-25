@@ -897,6 +897,10 @@ img {
   cursor: pointer;
 }
 
+.contact__content {
+  row-gap: 3rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

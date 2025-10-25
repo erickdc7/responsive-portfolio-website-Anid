@@ -901,6 +901,10 @@ img {
   row-gap: 3rem;
 }
 
+.contact__info {
+  row-gap: 1rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

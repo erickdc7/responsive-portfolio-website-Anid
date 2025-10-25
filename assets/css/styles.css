@@ -926,6 +926,16 @@ img {
   row-gap: 0.25rem;
 }
 
+.contact__link {
+  color: var(--title-color);
+  font-weight: var(--font-medium);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 0.5rem;
+  transition: transform 0.4s, color 0.4s;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

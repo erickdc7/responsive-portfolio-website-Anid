@@ -893,6 +893,10 @@ img {
   display: none;
 }
 
+.contact__button {
+  cursor: pointer;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

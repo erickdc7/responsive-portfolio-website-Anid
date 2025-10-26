@@ -1329,6 +1329,10 @@ img {
     row-gap: 1.5rem;
     justify-self: flex-start;
   }
+
+  .contact__write {
+    justify-self: flex-end;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

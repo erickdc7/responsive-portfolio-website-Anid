@@ -1308,6 +1308,10 @@ img {
   .testimonials__number {
     font-size: var(--normal-font-size);
   }
+
+  .contact {
+    padding-block: 9rem 4rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

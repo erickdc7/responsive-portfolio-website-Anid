@@ -959,6 +959,10 @@ img {
   bottom: -3rem;
 }
 
+.footer__copy {
+  color: var(--title-color);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== BREAKPOINTS ===============*/

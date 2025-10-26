@@ -963,6 +963,10 @@ img {
   color: var(--title-color);
 }
 
+.footer__copy span {
+  color: var(--first-color);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== BREAKPOINTS ===============*/

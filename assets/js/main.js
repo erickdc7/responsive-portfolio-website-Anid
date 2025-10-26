@@ -119,6 +119,9 @@ copyBtn.addEventListener('click', () => {
     })
 
     // Restore the original text
+    setTimeout(() => {
+        copyBtn.innerHTML = 'Copy email <i class="ri-file-copy-line"></i>'
+    }, 2000)
 })
 
 /*=============== CURRENT YEAR OF THE FOOTER ===============*/

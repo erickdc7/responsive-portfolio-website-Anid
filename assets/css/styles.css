@@ -1333,6 +1333,10 @@ img {
   .contact__write {
     justify-self: flex-end;
   }
+
+  .contact__title {
+    margin-bottom: 0.75rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

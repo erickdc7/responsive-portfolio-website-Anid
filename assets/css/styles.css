@@ -1316,6 +1316,10 @@ img {
   .contact__container {
     row-gap: 8rem;
   }
+
+  .contact__description {
+    font-size: var(--h2-font-size);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

@@ -967,6 +967,10 @@ img {
   color: var(--first-color);
 }
 
+.footer__year span {
+  font-family: var(--second-font);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== BREAKPOINTS ===============*/

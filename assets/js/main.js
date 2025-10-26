@@ -128,6 +128,8 @@ copyBtn.addEventListener('click', () => {
 const textYear = document.getElementById('footer-year'),
     currentYear = new Date().getFullYear()
 
+// Each year it is updated to the current year
+
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 
 

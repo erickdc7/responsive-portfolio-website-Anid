@@ -154,6 +154,12 @@ window.addEventListener('scroll', scrollActive)
 const cursor = document.querySelector('.cursor')
 let mouseX = 0, mouseY = 0 // Store mouse position
 
+const cursorMove = () => {
+    // Position the cursor
+    cursor.style.left = `${mouseX}px`
+    cursor.style.top = `${mouseY}px`
+}
+
 /* Hide custom cursor on links */
 
 

@@ -129,6 +129,7 @@ const textYear = document.getElementById('footer-year'),
     currentYear = new Date().getFullYear()
 
 // Each year it is updated to the current year
+textYear.textContent = currentYear
 
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 

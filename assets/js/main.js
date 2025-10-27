@@ -134,6 +134,10 @@ textYear.textContent = currentYear
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 const sections = document.querySelectorAll('section[id]')
 
+const scrollActive = () => {
+
+}
+
 /*=============== CUSTOM CURSOR ===============*/
 
 

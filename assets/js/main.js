@@ -164,6 +164,11 @@ const cursorMove = () => {
     requestAnimationFrame(cursorMove)
 }
 
+document.addEventListener('mousemove', (e) => {
+    mouseX = e.clientX
+    mouseY = e.clientY
+})
+
 /* Hide custom cursor on links */
 
 

@@ -139,7 +139,8 @@ const scrollActive = () => {
     const scrollY = window.scrollY
 
     sections.forEach(sections => {
-        const id = section.id // id of each section
+        const id = section.id, // id of each section
+            top = section.offsetTop - 50 // distance from the top edge
     })
 }
 window.addEventListener('scroll', scrollActive)

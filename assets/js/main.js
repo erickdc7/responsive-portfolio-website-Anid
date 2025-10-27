@@ -140,7 +140,8 @@ const scrollActive = () => {
 
     sections.forEach(sections => {
         const id = section.id, // id of each section
-            top = section.offsetTop - 50 // distance from the top edge
+            top = section.offsetTop - 50, // distance from the top edge
+            height = section.offsetHeight // element height
     })
 }
 window.addEventListener('scroll', scrollActive)

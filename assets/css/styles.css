@@ -978,6 +978,11 @@ img {
   border-radius: 0.5rem;
 }
 
+::-webkit-scrollbar-thumb {
+  background-color: hsl(240, 6%, 20%);
+  border-radius: 0.5rem;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 @media screen and (max-width: 320px) {

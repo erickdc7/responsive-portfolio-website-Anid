@@ -169,6 +169,8 @@ document.addEventListener('mousemove', (e) => {
     mouseY = e.clientY
 })
 
+cursorMove()
+
 /* Hide custom cursor on links */
 
 

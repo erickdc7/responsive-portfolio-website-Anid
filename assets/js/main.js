@@ -160,6 +160,8 @@ const cursorMove = () => {
     cursor.style.top = `${mouseY}px`
     cursor.style.transform = 'translate(-50%, -50%)'
 
+    // Update the cursor animation
+    requestAnimationFrame(cursorMove)
 }
 
 /* Hide custom cursor on links */

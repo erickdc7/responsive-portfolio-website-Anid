@@ -132,7 +132,7 @@ const textYear = document.getElementById('footer-year'),
 textYear.textContent = currentYear
 
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
-
+const sections = document.querySelectorAll('section[id]')
 
 /*=============== CUSTOM CURSOR ===============*/
 

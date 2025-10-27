@@ -158,6 +158,8 @@ const cursorMove = () => {
     // Position the cursor
     cursor.style.left = `${mouseX}px`
     cursor.style.top = `${mouseY}px`
+    cursor.style.transform = 'translate(-50%, -50%)'
+
 }
 
 /* Hide custom cursor on links */

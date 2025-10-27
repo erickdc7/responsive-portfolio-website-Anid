@@ -141,7 +141,8 @@ const scrollActive = () => {
     sections.forEach(sections => {
         const id = section.id, // id of each section
             top = section.offsetTop - 50, // distance from the top edge
-            height = section.offsetHeight // element height
+            height = section.offsetHeight, // element height
+            link = document.querySelector('.nav__menu a[href*=' + id + ']') // id nav link
     })
 }
 window.addEventListener('scroll', scrollActive)

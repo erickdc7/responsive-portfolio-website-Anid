@@ -137,6 +137,10 @@ const sections = document.querySelectorAll('section[id]')
 const scrollActive = () => {
     // We get the position by scrolling down
     const scrollY = window.scrollY
+
+    sections.forEach(sections => {
+
+    })
 }
 window.addEventListener('scroll', scrollActive)
 

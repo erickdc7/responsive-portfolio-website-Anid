@@ -135,7 +135,7 @@ textYear.textContent = currentYear
 const sections = document.querySelectorAll('section[id]')
 
 const scrollActive = () => {
-
+    // We get the position by scrolling down
 }
 window.addEventListener('scroll', scrollActive)
 

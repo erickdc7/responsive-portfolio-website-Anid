@@ -145,7 +145,7 @@ const scrollActive = () => {
             link = document.querySelector('.nav__menu a[href*=' + id + ']') // id nav link
         if (!link) return
 
-
+        link.classList.toggle('active-link', scrollY > top && scrollY <= top + height)
     })
 }
 window.addEventListener('scroll', scrollActive)

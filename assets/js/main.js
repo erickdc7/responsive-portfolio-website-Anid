@@ -137,6 +137,7 @@ const sections = document.querySelectorAll('section[id]')
 const scrollActive = () => {
 
 }
+window.addEventListener('scroll', scrollActive)
 
 /*=============== CUSTOM CURSOR ===============*/
 

@@ -139,7 +139,7 @@ const scrollActive = () => {
     const scrollY = window.scrollY
 
     sections.forEach(sections => {
-
+        const id = section.id // id of each section
     })
 }
 window.addEventListener('scroll', scrollActive)

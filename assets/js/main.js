@@ -180,7 +180,7 @@ a.forEach(item => {
     })
 
     item.addEventListener("mouseleave", () => {
-
+        cursor.classList.remove('hide-cursor')
     })
 })
 

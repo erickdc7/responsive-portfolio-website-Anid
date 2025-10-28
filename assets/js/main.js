@@ -178,6 +178,10 @@ a.forEach(item => {
     item.addEventListener("mouseover", () => {
         cursor.classList.add('hide-cursor')
     })
+
+    item.addEventListener("mouseleave", () => {
+
+    })
 })
 
 /*=============== SCROLL REVEAL ANIMATION ===============*/

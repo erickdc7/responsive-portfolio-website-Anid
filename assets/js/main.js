@@ -176,7 +176,7 @@ const a = document.querySelectorAll('a')
 
 a.forEach(item => {
     item.addEventListener("mouseover", () => {
-
+        cursor.classList.add('hide-cursor')
     })
 })
 

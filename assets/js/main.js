@@ -186,5 +186,6 @@ a.forEach(item => {
 
 /*=============== SCROLL REVEAL ANIMATION ===============*/
 const sr = ScrollReveal({
-    origin: 'top'
+    origin: 'top',
+    distance: '60px'
 })

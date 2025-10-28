@@ -192,3 +192,5 @@ const sr = ScrollReveal({
     delay: 300,
     reset: true // Animation repeat
 })
+
+sr.reveal(`.home__image`)

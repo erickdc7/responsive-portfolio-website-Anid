@@ -175,7 +175,9 @@ cursorMove()
 const a = document.querySelectorAll('a')
 
 a.forEach(item => {
+    item.addEventListener("mouseover", () => {
 
+    })
 })
 
 /*=============== SCROLL REVEAL ANIMATION ===============*/
